@@ -1,0 +1,8 @@
+c:\users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\bin\Debug\m8916touch.exe
+c:\users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\bin\Debug\m8916touch.pdb
+c:\users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\obj\x86\Debug\m8916touch.Properties.Resources.resources
+c:\users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\obj\x86\Debug\m8916touch.csproj.GenerateResource.Cache
+c:\users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\obj\x86\Debug\m8916touch.exe
+c:\users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\obj\x86\Debug\m8916touch.pdb
+c:\users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\obj\x86\Debug\m8916touch.Form1.resources
+C:\Users\arshing_chang\documents\visual studio 2010\Projects\m8916touch\m8916touch\obj\x86\Debug\m8916touch.csprojResolveAssemblyReference.cache
